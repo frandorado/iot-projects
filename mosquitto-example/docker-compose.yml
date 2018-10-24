@@ -1,0 +1,11 @@
+version: '2.1'
+services:    
+  mqtt:
+    image: toke/mosquitto:latest
+    ports:
+        - 1883:1883
+        - 9001:9001
+    volumes:
+    - ./log/mqtt:/mqtt/log
+    - ./data/mqtt:/mqtt/data/
+    #- ./config/mqtt:/mqtt/config
