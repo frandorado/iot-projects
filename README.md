@@ -4,4 +4,4 @@
 
 
 
-[bluetooth-light-bulb]: (https://github.com/frandorado/iot-projects/tree/master/rst01bl-bluetooth-ligth-bulb)
+[bluetooth-light-bulb]: https://github.com/frandorado/iot-projects/tree/master/rst01bl-bluetooth-ligth-bulb
